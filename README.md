@@ -11,7 +11,7 @@ Este repositório é destinado ao desenvolvimento da atividade ponderada de arqu
 
 <br>
 <div align="center">
-<sub>Figura X -Arquitetura da plataforma para o Cliente: </sub>
+<sub>Figura 1 -Arquitetura da plataforma para o Cliente: </sub>
 <br>
 <br>
 <img src="img/arquitetura-sistema-cliente-aviao.png" alt='X' width="100%">
@@ -23,7 +23,7 @@ Este repositório é destinado ao desenvolvimento da atividade ponderada de arqu
 
 <br>
 <div align="center">
-<sub>Figura X -Arquitetura da plataforma para o Administração: </sub>
+<sub>Figura 2 -Arquitetura da plataforma para o Administração: </sub>
 <br>
 <br>
 <img src="img/arquitetura-adm-aviao.png" alt='X' width="100%">
